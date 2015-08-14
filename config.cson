@@ -1,0 +1,13 @@
+"*":
+  "exception-reporting":
+    userId: "1d58b190-b3f2-aed5-8f07-8f1b06f395c9"
+  welcome:
+    showOnStartup: false
+  core: {}
+  editor:
+    invisibles: {}
+  latex: {}
+  "markdown-preview-katex": {}
+  "atom-terminal": {}
+  "atom-beautify": {}
+  "terminal-status": {}
